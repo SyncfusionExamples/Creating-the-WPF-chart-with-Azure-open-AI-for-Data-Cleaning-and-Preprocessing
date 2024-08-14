@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCleaning&Preprocessing", "DataCleaning&Preprocessing.csproj", "{9E55B90B-5FF4-4CE9-AF93-8109414D4A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E55B90B-5FF4-4CE9-AF93-8109414D4A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E55B90B-5FF4-4CE9-AF93-8109414D4A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E55B90B-5FF4-4CE9-AF93-8109414D4A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E55B90B-5FF4-4CE9-AF93-8109414D4A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331E405D-7FB9-41D5-AE66-00FC8AC3BA8C}
+	EndGlobalSection
+EndGlobal
