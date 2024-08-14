@@ -70,7 +70,8 @@
                     <syncfusion:FastLineSeries x:Name="RawDataSeries" ItemsSource="{Binding RawData}" XBindingPath="DateTime" YBindingPath="Visitors"/>
 
                 </syncfusion:SfChart>
-                <Notification:SfBusyIndicator  Grid.Row="1" x:Name="busy" IsBusy="{Binding IsBusy}"/>
+                
+                <Notification:SfBusyIndicator x:Name="busy" IsBusy="{Binding IsBusy}"/>
 
             </Grid>
         </Grid>
