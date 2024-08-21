@@ -15,4 +15,4 @@ This article illustrates how to clean and preprocess data using Azure OpenAI in 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
 
-For a step-by-step procedure, refer to the [open AI for Data Cleaning and Preprocessing]() blog.
+For a step-by-step procedure, refer to the [open AI for Data Cleaning and Preprocessing](https://www.syncfusion.com/blogs/post/preprocess-data-with-smart-wpf-chart) blog.
